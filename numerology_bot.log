@@ -1,0 +1,10 @@
+2025-04-06 22:13:48,204 - __main__ - INFO - Бот запущен
+2025-04-06 22:13:49,108 - telegram.ext._application - INFO - Application started
+2025-04-06 22:14:00,297 - __main__ - ERROR - Ошибка планирования уведомления: 'NoneType' object has no attribute 'run_once'
+2025-04-06 22:19:58,113 - telegram.ext._application - INFO - Application is stopping. This might take a moment.
+2025-04-06 22:19:58,116 - telegram.ext._application - INFO - Application.stop() complete
+2025-04-06 22:20:27,851 - __main__ - INFO - Бот запущен
+2025-04-06 22:20:28,797 - telegram.ext._application - INFO - Application started
+2025-04-06 22:20:43,068 - __main__ - ERROR - Ошибка планирования уведомления: 'NoneType' object has no attribute 'run_once'
+2025-04-06 22:22:03,294 - telegram.ext._application - INFO - Application is stopping. This might take a moment.
+2025-04-06 22:22:03,297 - telegram.ext._application - INFO - Application.stop() complete
